@@ -1,0 +1,25 @@
+/*
+
+Theme Name:     Fortunato Child
+
+Theme URI:      http://http://www.schneiderei-goldknoepfchen.de/
+
+Description:    Child Theme for the Fortuna theme
+
+Author:         Dein Name
+
+Template:       fortunato
+
+Version:        1.0
+
+*/
+
+
+@import url("../fortunato/style.css");
+
+.site-brand-main {
+	background-size: cover !important;
+	background-image: none !important;
+	background-color: transparent !important;
+	height: 400px;
+}
